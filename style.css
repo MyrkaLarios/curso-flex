@@ -1,0 +1,17 @@
+html,
+body,
+.container,
+form {
+  height: 100%;
+}
+nav {
+}
+.home {
+  background-color: forestgreen;
+}
+.search {
+  background-color: hotpink;
+}
+.logout {
+  background-color: rebeccapurple;
+}
