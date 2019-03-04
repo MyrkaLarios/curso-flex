@@ -15,3 +15,13 @@ nav {
 .logout {
   background-color: rebeccapurple;
 }
+
+.footer {
+  background-color: coral;
+  display: flex;
+}
+
+.footer > div {
+  background-color: darkkhaki;
+  min-width: 300px;
+}
